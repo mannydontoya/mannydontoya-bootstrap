@@ -1,0 +1,22 @@
+.nav-item{
+    list-style-type: none;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: blue !important;
+    background-color: white !important;
+}
+.nav-link{
+    color: gray !important;
+}
+img{
+    width: 100%;
+}
+.col-4{
+    padding-bottom: 5px;
+}
+span{
+    text-align: end !important;
+}
+.d-grid-card{
+    padding-bottom: 5px !important;
+}
